@@ -1,4 +1,4 @@
-## <img src="assets/icon-light.svg" width="28" height="28" alt="Palette Studio logo"> Palette Studio
+## <img src="assets/icon-light.svg" width="40" height="40" align="absmiddle" alt="Palette Studio logo"> Palette Studio
 
 A free palette camera for iPhone, iPad and Mac. Point the camera at anything and get a live color palette, take a photo or a video with the palette on screen, then export it for Procreate and other apps.
 
